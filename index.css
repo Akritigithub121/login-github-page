@@ -1,0 +1,61 @@
+body{
+    background: url(landon\ image.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.container{
+     color: white;
+     position: absolute;
+     top: 10%;
+     left: 35%;
+}
+.container h2{
+    display: inline-block;
+    font-size: 45px;
+    color: rgb(242, 192, 255);
+    border-bottom: 5px solid pink;
+    margin-bottom: 20px;
+    padding: 15px 0px;
+
+
+}
+.box{
+    width: 100%;
+    margin-bottom: 20px;
+    border-bottom: 2px solid pink;
+    color: white;
+}
+.box input{ 
+           color: white;
+           width: 75%;
+           border:none;
+           outline: none;
+           font-size: 20px;
+           margin: 2px 0px;
+           padding:15px;
+           background: none;
+           padding-left: 5px;
+}
+.btn{ 
+     cursor:pointer;
+    color: rgb(192, 246, 255);
+    margin: 12px 0px;
+     background:none;
+     outline: none;
+     width: 30%; 
+     top: 10%;
+     padding: 6px;
+     background-color: purple;
+     border-radius: 10px;
+     font-size: 20px;
+     border: 2px solid rgb(192, 246, 255);
+
+}
+.box i{
+    width: 25px;
+    text-align: center;
+}
+
+
+
+
+
